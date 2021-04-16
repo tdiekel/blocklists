@@ -3,3 +3,20 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.t
 #https://raw.githubusercontent.com/llacb47/mischosts/master/apple-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts
+
+# Von Semper Video https://github.com/RPiList/specials/blob/master/Blocklisten.md
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blocklist
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
