@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.t
 https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts
 
-# Von Semper Video https://github.com/RPiList/specials/blob/master/Blocklisten.md
+# Lists from Semper Video https://github.com/RPiList/specials/blob/master/Blocklisten.md
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
@@ -20,3 +20,6 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Scien
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blocklist
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
+
+# Block DoH Server https://github.com/oneoffdallas/dohservers
+https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
