@@ -26,7 +26,8 @@ https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 
 # Developer dan's lists https://github.com/lightswitch05/hosts
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt # Kill Google AMP 
+# Kill Google AMP 
+https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt 
 
 # Blocklistproject https://github.com/blocklistproject/Lists
 https://blocklistproject.github.io/Lists/abuse.txt
