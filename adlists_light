@@ -1,9 +1,14 @@
+# Default list
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# Miscellaneous
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/llacb47/mischosts/master/microsoft-telemetry
 https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+https://dbl.oisd.nl/
 
 # Lists from Semper Video https://github.com/RPiList/specials/blob/master/Blocklisten.md
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
