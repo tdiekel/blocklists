@@ -3,3 +3,4 @@ web.diagnostic.networking.aws.dev
 
 # Block DoH (https://www.reddit.com/r/Ubiquiti/comments/kcgoj6/force_all_iot_devices_to_use_pihole_dns/gfti06n)
 doh-discovery.xfinity.com
+log.tailscale.io
