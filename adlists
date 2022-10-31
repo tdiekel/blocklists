@@ -34,6 +34,9 @@ https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 # Kill Google AMP 
 https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt 
+# CNAME record trackers
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+
 
 # Blocklistproject https://github.com/blocklistproject/Lists
 https://blocklistproject.github.io/Lists/abuse.txt
