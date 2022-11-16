@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/llacb47/mischosts/master/streaming-hosts
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://dbl.oisd.nl/
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 
 # Lists from Semper Video https://github.com/RPiList/specials/blob/master/Blocklisten.md
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
