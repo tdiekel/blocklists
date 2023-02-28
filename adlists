@@ -1,52 +1,31 @@
 # Default list
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 
-# Miscellaneous
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
-https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
-https://dbl.oisd.nl/
-https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+# 1Hosts https://github.com/badmojr/1Hosts#1hosts-pro
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt
+
+# List from https://oisd.nl
+https://big.oisd.nl/domains
+
+# WindowsSpyBlocker https://github.com/crazy-max/WindowsSpyBlocker
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 # Lists from Semper Video https://github.com/RPiList/specials/blob/master/Blocklisten.md
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/notserious
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Streaming
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/easylist
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/samsung
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/proxies
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/crypto
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/gambling
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/child-protection
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Fake-Science
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Corona-Blocklist
-https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/MS-Office-Telemetry
 
 # Block DoH Server https://github.com/oneoffdallas/dohservers
 https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 
-# Developer dan's lists https://github.com/lightswitch05/hosts
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-# Kill Google AMP 
+# Developer dan's to kill Google AMP https://github.com/lightswitch05/hosts
 https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt 
+
 # CNAME record trackers
 https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
 
-
-# Blocklistproject https://github.com/blocklistproject/Lists
-https://blocklistproject.github.io/Lists/abuse.txt
-https://blocklistproject.github.io/Lists/ads.txt
-https://blocklistproject.github.io/Lists/fraud.txt
-https://blocklistproject.github.io/Lists/gambling.txt
-https://blocklistproject.github.io/Lists/malware.txt
-https://blocklistproject.github.io/Lists/phishing.txt
-https://blocklistproject.github.io/Lists/ransomware.txt
-https://blocklistproject.github.io/Lists/scam.txt
-https://blocklistproject.github.io/Lists/tracking.txt
-
-# WindowsSpyBlocker https://github.com/crazy-max/WindowsSpyBlocker
-https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+# Miscellaneous
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+https://raw.githubusercontent.com/notracking/hosts-blocklists/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
