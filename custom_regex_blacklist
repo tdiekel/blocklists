@@ -2,14 +2,3 @@
 
 # TuneIn Preroll Ads
 tunein.com\/.\*\/&amp
-
-# Block DNS servers (https://www.reddit.com/r/Ubiquiti/comments/kcgoj6/force_all_iot_devices_to_use_pihole_dns/gfti06n)
-^((http:[/][/])|(https:[/][/]))dns[.]
-^((http:[/][/])|(https:[/][/]))dns?[0-9][.]
-^dns[.]
-^dns?[0-9][.]
-[/]dns-query$
-
-# Block DoH (https://www.reddit.com/r/Ubiquiti/comments/kcgoj6/force_all_iot_devices_to_use_pihole_dns/gfti06n)
-^((http:[/][/])|(https:[/][/]))doh[.]
-^doh[.]
