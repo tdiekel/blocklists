@@ -1,0 +1,53 @@
+###############
+# Recommended #
+###############
+
+# HaGeZi's Pro DNS Blocklist
+# This list version should only very rarely lead to restrictions.
+# It is suitable for environments where there is an admin nearby who can unblock something.
+# My personal recommendation for mostly problem-free adblocking with good privacy protection.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+
+# HaGeZi's Threat Intelligence Feeds DNS Blocklist
+# A blocklist for blocking malware, cryptojacking, scam, spam and phishing.
+# Blocks domains known to spread malware, launch phishing attacks and host command-and-control servers.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+
+# Dandelion Sprout's Anti-Malware List
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+
+############
+# Optional #
+############
+
+# HaGeZi's Badware Hoster DNS Blocklist
+# Blocks known hosters that also host badware via user content to prevent the use of these hosters for malicious purposes.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
+
+# HaGeZi's The World's Most Abused TLDs
+# The Top Most Abused Top Level Domains
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt
+
+##################
+# Native Tracker #
+##################
+
+# HaGeZi's Amazon Tracker DNS Blocklist
+# Blocks Amazon native broadband tracker that track your activity.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
+
+# HaGeZi's Apple Tracker DNS Blocklist
+# Blocks Apple native broadband tracker that track your activity.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt
+
+# HaGeZi's Windows/Office Tracker DNS Blocklist
+# Blocks Windows/Office native broadband tracker that track your activity.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.winoffice.txt
+
+# HaGeZi's TikTok Fingerprinting DNS Blocklist
+# Blocks TikTok fingerprinting/tracker that track your activity.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.tiktok.txt
+
+# HaGeZi's OPPO & Realme Tracker DNS Blocklist
+# Blocks OPPO & Realme native broadband tracker that track your activity.
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.oppo-realme.txt
