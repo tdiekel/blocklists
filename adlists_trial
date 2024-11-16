@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
 
 # HaGeZi's The World's Most Abused TLDs
 # The Top Most Abused Top Level Domains
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds-adblock.txt
 
 ##################
 # Native Tracker #
