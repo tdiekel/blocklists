@@ -2,3 +2,6 @@
 
 # TuneIn Preroll Ads
 tunein.com\/.\*\/&amp
+# https://en.community.sonos.com/controllers-and-music-services-229131/blocking-tunein-ads-6885810
+*.prod-pre.fns.tunein.com
+*.chunks.tunein.com
