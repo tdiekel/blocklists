@@ -8,4 +8,4 @@ nordvpn.com
 s.youtube.com # to allow creation of YouTube history 
 dealer.spotify.com # allow login # source: https://www.reddit.com/r/pihole/comments/rn4p1v/comment/hpq8vy5 # secure websocket (full duplex), links to global-dealer-ssl.spotify.com 
 firebasedynamiclinks.googleapis.com # Google dynamic links
-
+api.mullvad.net

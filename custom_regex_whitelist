@@ -3,3 +3,4 @@
 (\.|^)shein\.com$
 (\.|^)sp-ad-fa\.audio\.tidal\.com$ # Tidal
 (\.|^)in-tech\.com$
+(\.|^)torproject\.net$ # Snowflake
